@@ -1,4 +1,6 @@
 # Krunker-Cheat Injector
+![Krunker Double Kill 2.3k](https://cdn.discordapp.com/attachments/622241775528050701/632422469403410443/screenshot.png)
+
 This is a working Krunker.io Cheat to be constantly updated by IceHacks and zbot473.
 
 ## Installation
@@ -33,4 +35,4 @@ Make sure it is enabled. If it is, refresh the page.
 - Gay BHop
 - AutoSwitch
 
-© 2019 IceHacks and zbot473
+<sub>© 2019 IceHacks and zbot473</sub>
