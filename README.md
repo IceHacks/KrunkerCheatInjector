@@ -28,4 +28,9 @@ Hold CTRL (or CMND) to use BHop.
 
 Make sure it is enabled. If it is, refresh the page.
 
+## Features
+- Aimbot
+- Gay BHop
+- AutoSwitch
+
 © 2019 IceHacks
