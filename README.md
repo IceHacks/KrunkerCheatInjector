@@ -1,5 +1,5 @@
 # Krunker-Cheat Injector
-This is a working Krunker.io Cheat to be constantly updated by the IceHacks team.
+This is a working Krunker.io Cheat to be constantly updated by IceHacks and zbot473.
 
 ## Installation
 - Download the [latest zip](https://github.com/IceHacks/KrunkerCheatInjector/releases/latest).
