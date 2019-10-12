@@ -32,7 +32,7 @@ Make sure it is enabled. If it is, refresh the page.
 
 ## Features
 - Aimbot
-- Gay BHop
+- BHop
 - AutoSwitch
 
 <sub>© 2019 IceHacks and zbot473</sub>
