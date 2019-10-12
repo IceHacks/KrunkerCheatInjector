@@ -33,4 +33,4 @@ Make sure it is enabled. If it is, refresh the page.
 - Gay BHop
 - AutoSwitch
 
-© 2019 IceHacks
+© 2019 IceHacks and zbot473
