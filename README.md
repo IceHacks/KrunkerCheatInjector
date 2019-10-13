@@ -4,7 +4,7 @@
 This is a working Krunker.io Cheat to be constantly updated by IceHacks and zbot473.
 
 ## Installation
-- Download the [latest zip](https://github.com/IceHacks/KrunkerCheatInjector/releases/latest/latest.zip).
+- Download the [latest zip](https://github.com/IceHacks/KrunkerCheatInjector/releases/latest).
   - Expand "Assets"
   - Click "latest.zip"
 - Extract the zip file
