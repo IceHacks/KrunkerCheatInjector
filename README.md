@@ -32,7 +32,11 @@ Make sure it is enabled. If it is, refresh the page.
 
 ## Features
 - Aimbot
+  - Aim Assist
+  - Aim at head
 - BHop
+  - Auto jump
+  - Auto crouch
 - AutoSwitch
 
 <sub>© 2019 IceHacks and zbot473</sub>
