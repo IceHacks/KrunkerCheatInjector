@@ -39,5 +39,6 @@ Make sure it is enabled. If it is, refresh the page.
   - Auto jump
   - Auto crouch
 - AutoSwitch
+- AutoReload
 
 <sub>© 2019 IceHacks and zbot473</sub>
