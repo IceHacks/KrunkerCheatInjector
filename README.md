@@ -1,5 +1,6 @@
 # Krunker-Cheat Injector
-![Krunker Double Kill 2.3k](https://cdn.discordapp.com/attachments/622241775528050701/632422469403410443/screenshot.png)
+![IceHacks Logo](https://media.discordapp.net/attachments/622241766107774996/639570452234240020/unknown.png)
+
 
 This is a working Krunker.io Cheat to be constantly updated by IceHacks and zbot473.
 
