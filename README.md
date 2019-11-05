@@ -32,7 +32,7 @@ Hold "v"\* to use BHop.
 Make sure it is enabled. If it is, refresh the page.
 
 
-<sub>\* [Binds](/#Coming-Soon)</sub>
+<sub>\* [Binds](#coming-soon)</sub>
 
 ## Features
 - Aimbot
