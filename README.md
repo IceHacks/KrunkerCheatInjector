@@ -25,7 +25,9 @@ Just press "n" on krunker.io
 
 > How do I make BHop work?
 
-Hold ALT (or Option) to use BHop.
+Hold "v"\* to use BHop.
+
+<sub>\* [Binds](https://github.com/IceHacks/KrunkerCheatInjector/#Coming+Soon)</sub>
 
 > Something isn't working
 
@@ -40,5 +42,10 @@ Make sure it is enabled. If it is, refresh the page.
   - Auto crouch
 - AutoSwitch
 - AutoReload
+
+### Coming soon
+- Binds
+- Saved settings
+- More options
 
 <sub>© 2019 IceHacks and zbot473</sub>
