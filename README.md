@@ -32,7 +32,7 @@ Hold "v"\* to use BHop.
 Make sure it is enabled. If it is, refresh the page.
 
 
-<sub>\* [Binds](https://github.com/IceHacks/KrunkerCheatInjector/#Coming+Soon)</sub>
+<sub>\* [Binds](https://github.com/IceHacks/KrunkerCheatInjector/#Coming-Soon)</sub>
 
 ## Features
 - Aimbot
