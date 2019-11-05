@@ -27,11 +27,12 @@ Just press "n" on krunker.io
 
 Hold "v"\* to use BHop.
 
-<sub>\* [Binds](https://github.com/IceHacks/KrunkerCheatInjector/#Coming+Soon)</sub>
-
 > Something isn't working
 
 Make sure it is enabled. If it is, refresh the page.
+
+
+<sub>\* [Binds](https://github.com/IceHacks/KrunkerCheatInjector/#Coming+Soon)</sub>
 
 ## Features
 - Aimbot
