@@ -1,3 +1,5 @@
+## Due note I don't play krunker and I have more important things happening so updating might take a while.
+
 # Krunker-Cheat Injector (working 1.8.9)
 ![IceHacks Logo](https://media.discordapp.net/attachments/622241766107774996/639570452234240020/unknown.png)
 
