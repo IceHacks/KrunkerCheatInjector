@@ -1,3 +1,5 @@
+# I'm not gonna work on this.
+
 ## Due note I don't play krunker and I have more important things happening so updating might take a while.
 
 # Krunker-Cheat Injector (working 1.8.9)
